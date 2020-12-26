@@ -12,6 +12,6 @@ then we start the process:
 
 Libraries in use:
 
-> numpy
-> pandas
-> scipy
+  - > numpy
+  - > pandas
+  -  > scipy
